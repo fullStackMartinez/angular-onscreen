@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullstackmartinez/angular5-onscreen.git"
+    "url": "https://github.com/fullstackmartinez/angular-onscreen.git"
   },
   "dependencies": {
     "@angular/common": "^5.2.6",
